@@ -13,121 +13,121 @@
     "introduction": "The Virtual Labs Project started as an initiative from the Ministry of Human Resource and Development (MHRD) to create online interactive media which would help students learn difficult concepts in various domains. As a part of this initiative, a virtual laboratory for Basic Electronics has been developed. The objective of this lab is to perform experiments in the Basic Electronics labs virtually, and yet have close to real life experience. The platform is focused on learning aspects as much as on performing the experiments.<br/><br/>Virtual Labs for Teachers<br/>Virtual Labs has the potential to bring paradigm shift in the way courses are taught today.For example, the teachers can take it to the class and demonstrate live examples while they are teaching difficult concepts to the students. Many difficult concepts are already integrated in the provided course icurriculum. It can also complement the existing labs, wherein the students can be given assignments before or after the lab. The teacher can actively coordinate that effort to enable inclusive learning for all the students.<br/><br/>Virtual Labs for Students<br/>Students will get a feel of the real lab, as all lab equipment, components and lab behavior would be mimicked in the system. Extensive 2D animations is used to provide real like look and feel to the students. The instruments and components are modeled accurately to provide real like response. Interactive animations are also provided at a lot of places to enable student learning.<br/><br/>Key features of Virtual Labs<br/> Available 24X7. So students can learn difficult concepts at their own pace.<br/> Real looking components, to give the user a feel of the real laboratory.<br/> Step by step wizard to guide the students through the experiments.",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Familiarisation with Resistor",
+      "short-name": "familiarisation-resistor",
+      "repo": "https://github.com/virtual-labs/exp-familiarisation-resistor-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Familiarisation with Capacitor",
+      "short-name": "familiarisation-capacitor",
+      "repo": "https://github.com/virtual-labs/exp-familiarisation-capacitor-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Familiarisation with Inductor",
+      "short-name": "familiarisation-inductor",
+      "repo": "https://github.com/virtual-labs/exp-familiarisation-inductor-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Ohm's Law",
+      "short-name": "ohm-law",
+      "repo": "https://github.com/virtual-labs/exp-ohm-law-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "VI Characteristics of a Diode",
+      "short-name": "characteristics-diode",
+      "repo": "https://github.com/virtual-labs/exp-characteristics-diode-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Half Wave Rectification",
+      "short-name": "half-wave-rectification",
+      "repo": "https://github.com/virtual-labs/exp-half-wave-rectification-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Full Wave Rectification",
+      "short-name": "full-wave-rectification",
+      "repo": "https://github.com/virtual-labs/exp-full-wave-rectification-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Capacitative Rectification",
+      "short-name": "capacitative-rectification",
+      "repo": "https://github.com/virtual-labs/exp-capacitative-rectification-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Zener Diode-Voltage Regulator",
+      "short-name": "voltage-regulator",
+      "repo": "https://github.com/virtual-labs/exp-voltage-regulator-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "BJT Common Emitter Characteristics",
+      "short-name": "common-emitter-characteristics",
+      "repo": "https://github.com/virtual-labs/exp-common-emitter-characteristics-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "BJT Common Base Characteristics",
+      "short-name": "common-base-characteristics",
+      "repo": "https://github.com/virtual-labs/exp-common-base-characteristics-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Studies on BJT CE Amplifier",
+      "short-name": "ce-amplifier",
+      "repo": "https://github.com/virtual-labs/exp-ce-amplifier-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "RC Frequency Response",
+      "short-name": "frequency-response",
+      "repo": "https://github.com/virtual-labs/exp-frequency-response-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "RC Differentiator and Integrator",
+      "short-name": "differentiator-integrator",
+      "repo": "https://github.com/virtual-labs/exp-differentiator-integrator-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Black Box",
+      "short-name": "black-box",
+      "repo": "https://github.com/virtual-labs/exp-black-box-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Study of basic properties of Operational Amplifier: Inverting and Non-Inverting Amplifiers",
+      "short-name": "non-inverting-amplifiers",
+      "repo": "https://github.com/virtual-labs/exp-non-inverting-amplifiers-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Study of Differentiator and Integrator using Operational Amplifier",
+      "short-name": "operational-amplifier",
+      "repo": "https://github.com/virtual-labs/exp-operational-amplifier-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     }    
