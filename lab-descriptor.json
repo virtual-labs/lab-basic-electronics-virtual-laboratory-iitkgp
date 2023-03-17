@@ -11,7 +11,127 @@
     "collegeName": "IITKGP",
     "baseUrl": "",
     "introduction": "The Virtual Labs Project started as an initiative from the Ministry of Human Resource and Development (MHRD) to create online interactive media which would help students learn difficult concepts in various domains. As a part of this initiative, a virtual laboratory for Basic Electronics has been developed. The objective of this lab is to perform experiments in the Basic Electronics labs virtually, and yet have close to real life experience. The platform is focused on learning aspects as much as on performing the experiments.<br/><br/>Virtual Labs for Teachers<br/>Virtual Labs has the potential to bring paradigm shift in the way courses are taught today.For example, the teachers can take it to the class and demonstrate live examples while they are teaching difficult concepts to the students. Many difficult concepts are already integrated in the provided course icurriculum. It can also complement the existing labs, wherein the students can be given assignments before or after the lab. The teacher can actively coordinate that effort to enable inclusive learning for all the students.<br/><br/>Virtual Labs for Students<br/>Students will get a feel of the real lab, as all lab equipment, components and lab behavior would be mimicked in the system. Extensive 2D animations is used to provide real like look and feel to the students. The instruments and components are modeled accurately to provide real like response. Interactive animations are also provided at a lot of places to enable student learning.<br/><br/>Key features of Virtual Labs<br/> Available 24X7. So students can learn difficult concepts at their own pace.<br/> Real looking components, to give the user a feel of the real laboratory.<br/> Step by step wizard to guide the students through the experiments.",
-    "experiments": [],
+    "experiments": [
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }    
+    ],
     "targetAudience": {
         "UG": ["Electronics and Electrical branches"],
         "PG": ["Electronics and Electrical branches"]
