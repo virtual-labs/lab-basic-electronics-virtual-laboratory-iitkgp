@@ -134,11 +134,11 @@
     ],
     "targetAudience": {
         "UG": ["Electronics and Electrical branches"],
-        "PG": ["Electronics and Electrical branches"]
+        "PG": ["Electreonics and Electrical branches"]
     },
-    "objective": "",
+    "objective": "Laboratory courses on hands-on experiments are integral parts of engineering education. The content aims to provide a virtual laboratory platform for undergraduate Engineering students studying the course of Basic Electronics. Using this virtual laboratory platform, the students will be able to perform various experiments to supplement their theoretical understanding of Basic Electronics.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
+        "universities": ["Indian Institute of Technology Kharagpur"]
     }
 }
