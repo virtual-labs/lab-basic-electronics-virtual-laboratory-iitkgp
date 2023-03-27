@@ -43,7 +43,7 @@
       "name": "VI Characteristics of a Diode",
       "short-name": "characteristics-diode",
       "repo": "https://github.com/virtual-labs/exp-characteristics-diode-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -57,7 +57,7 @@
       "name": "Full Wave Rectification",
       "short-name": "full-wave-rectification",
       "repo": "https://github.com/virtual-labs/exp-full-wave-rectification-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -120,14 +120,14 @@
       "name": "Study of basic properties of Operational Amplifier: Inverting and Non-Inverting Amplifiers",
       "short-name": "non-inverting-amplifiers",
       "repo": "https://github.com/virtual-labs/exp-non-inverting-amplifiers-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Study of Differentiator and Integrator using Operational Amplifier",
       "short-name": "operational-amplifier",
       "repo": "https://github.com/virtual-labs/exp-operational-amplifier-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -142,5 +142,5 @@
   },
   "exp_name": "Study of Differentiator and Integrator using Operational Amplifier",
   "exp_short_name": "operational-amplifier",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
