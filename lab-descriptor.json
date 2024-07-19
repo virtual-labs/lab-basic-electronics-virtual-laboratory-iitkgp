@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "Basic Electronics Virtual Laboratory",
   "lab_display_name": "Basic Electronics Virtual Laboratory",
@@ -139,8 +140,5 @@
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
     "universities": ["Indian Institute of Technology Kharagpur"]
-  },
-  "exp_name": "Study of Differentiator and Integrator using Operational Amplifier",
-  "exp_short_name": "operational-amplifier",
-  "version": "v0.2.0"
+  }
 }
