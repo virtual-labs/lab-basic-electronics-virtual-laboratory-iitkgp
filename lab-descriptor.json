@@ -16,7 +16,7 @@
       "name": "Familiarisation with Resistor",
       "short-name": "familiarisation-resistor",
       "repo": "https://github.com/virtual-labs/exp-familiarisation-resistor-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -30,14 +30,14 @@
       "name": "Familiarisation with Inductor",
       "short-name": "familiarisation-inductor",
       "repo": "https://github.com/virtual-labs/exp-familiarisation-inductor-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Ohm's Law",
       "short-name": "ohm-law",
       "repo": "https://github.com/virtual-labs/exp-ohm-law-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -51,14 +51,14 @@
       "name": "Half Wave Rectification",
       "short-name": "half-wave-rectification",
       "repo": "https://github.com/virtual-labs/exp-half-wave-rectification-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Full Wave Rectification",
       "short-name": "full-wave-rectification",
       "repo": "https://github.com/virtual-labs/exp-full-wave-rectification-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -72,7 +72,7 @@
       "name": "Zener Diode-Voltage Regulator",
       "short-name": "voltage-regulator",
       "repo": "https://github.com/virtual-labs/exp-voltage-regulator-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -107,14 +107,14 @@
       "name": "RC Differentiator and Integrator",
       "short-name": "differentiator-integrator",
       "repo": "https://github.com/virtual-labs/exp-differentiator-integrator-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Black Box",
       "short-name": "black-box",
       "repo": "https://github.com/virtual-labs/exp-black-box-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -128,7 +128,7 @@
       "name": "Study of Differentiator and Integrator using Operational Amplifier",
       "short-name": "operational-amplifier",
       "repo": "https://github.com/virtual-labs/exp-operational-amplifier-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
