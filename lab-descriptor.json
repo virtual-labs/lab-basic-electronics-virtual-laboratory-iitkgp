@@ -37,7 +37,7 @@
       "name": "Ohm's Law",
       "short-name": "ohm-law",
       "repo": "https://github.com/virtual-labs/exp-ohm-law-iitkgp",
-      "tag": "v1.0.2",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
