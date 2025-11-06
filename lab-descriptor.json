@@ -93,14 +93,14 @@
       "name": "Studies on BJT CE Amplifier",
       "short-name": "ce-amplifier",
       "repo": "https://github.com/virtual-labs/exp-ce-amplifier-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "RC Frequency Response",
       "short-name": "frequency-response",
       "repo": "https://github.com/virtual-labs/exp-frequency-response-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
