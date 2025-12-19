@@ -37,70 +37,70 @@
       "name": "Ohm's Law",
       "short-name": "ohm-law",
       "repo": "https://github.com/virtual-labs/exp-ohm-law-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "VI Characteristics of a Diode",
       "short-name": "characteristics-diode",
       "repo": "https://github.com/virtual-labs/exp-characteristics-diode-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Half Wave Rectification",
       "short-name": "half-wave-rectification",
       "repo": "https://github.com/virtual-labs/exp-half-wave-rectification-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Full Wave Rectification",
       "short-name": "full-wave-rectification",
       "repo": "https://github.com/virtual-labs/exp-full-wave-rectification-iitkgp",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Capacitative Rectification",
       "short-name": "capacitative-rectification",
       "repo": "https://github.com/virtual-labs/exp-capacitative-rectification-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Zener Diode-Voltage Regulator",
       "short-name": "voltage-regulator",
       "repo": "https://github.com/virtual-labs/exp-voltage-regulator-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "BJT Common Emitter Characteristics",
       "short-name": "common-emitter-characteristics",
       "repo": "https://github.com/virtual-labs/exp-common-emitter-characteristics-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "BJT Common Base Characteristics",
       "short-name": "common-base-characteristics",
       "repo": "https://github.com/virtual-labs/exp-common-base-characteristics-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Studies on BJT CE Amplifier",
       "short-name": "ce-amplifier",
       "repo": "https://github.com/virtual-labs/exp-ce-amplifier-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "RC Frequency Response",
       "short-name": "frequency-response",
       "repo": "https://github.com/virtual-labs/exp-frequency-response-iitkgp",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -114,21 +114,21 @@
       "name": "Black Box",
       "short-name": "black-box",
       "repo": "https://github.com/virtual-labs/exp-black-box-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Study of basic properties of Operational Amplifier: Inverting and Non-Inverting Amplifiers",
       "short-name": "non-inverting-amplifiers",
       "repo": "https://github.com/virtual-labs/exp-non-inverting-amplifiers-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Study of Differentiator and Integrator using Operational Amplifier",
       "short-name": "operational-amplifier",
       "repo": "https://github.com/virtual-labs/exp-operational-amplifier-iitkgp",
-      "tag": "v1.0.3",
+      "tag": "v1.0.5",
       "deploy": true
     }
   ],
