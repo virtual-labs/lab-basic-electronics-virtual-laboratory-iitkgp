@@ -65,7 +65,7 @@
       "name": "Capacitative Rectification",
       "short-name": "capacitative-rectification",
       "repo": "https://github.com/virtual-labs/exp-capacitative-rectification-iitkgp",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
